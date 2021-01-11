@@ -1,2 +1,2 @@
 <b> VICTOR HUGO <b>
-<p>STEAM, <a href="https://steamcommunity.com/id/HugoFUNNY/">clique aqui.</a></p>
+<p><a href="https://steamcommunity.com/id/HugoFUNNY/">STEAM.</a></p>
