@@ -1,10 +1,7 @@
 <b> VICTOR HUGO <b>
-<p><a href="https://steamcommunity.com/id/HugoFUNNY/">STEAM</a></p>
- <p><a href="https://discord.gg/E8FFT9XM">SERVIDOR NO DISCORD</a></p>
+
 
 ### Contact me:
-
-
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/gmail%20@victorhugofny-DD1000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/youtube%20HUGOFUNNY-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/steam%20@victorhugofny-DD2476?style=for-the-badge&logo=steam&logoColor=white"/></a>
