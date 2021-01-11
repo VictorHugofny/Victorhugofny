@@ -5,7 +5,7 @@
 ### Contact me:
 
 - Email: [![Email](https://img.shields.io/badge/victorhugofny@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:victorhugofny@gmail.com)
-- <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/instagram%20@victorhugofny-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
