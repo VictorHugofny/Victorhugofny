@@ -4,8 +4,7 @@
 
 ### Contact me:
 
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:victorhugofny@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/victorhugofny@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:victorhugofny@gmail.com)
 
 
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
