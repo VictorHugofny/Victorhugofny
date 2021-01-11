@@ -4,7 +4,7 @@
 
 ### Contact me:
 
-- <a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/instagram%20HugoFUNNY-DD100?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+- <a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/instagram%20HugoFUNNY-DD500?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/youtube%20HUGOFUNNY-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/steam%20@victorhugofny-DD2476?style=for-the-badge&logo=steam&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/gmail%20@victorhugofny-DD2476?style=for-the-badge&logo=gmail&logoColor=white"/></a>
