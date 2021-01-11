@@ -4,12 +4,11 @@
 
 ### Contact me:
 
-- <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/instagram%20@victorhugofny-DD2476?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+- <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/instagram%20@victorhugofny-DD100?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/youtube%20HUGOFUNNY-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/steam%20@victorhugofny-DD2476?style=for-the-badge&logo=steam&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/gmail%20@victorhugofny-DD2476?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 ![C](https://img.shields.io/badge/C-3776AB?style=flat-square&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
