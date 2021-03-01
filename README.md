@@ -14,4 +14,4 @@
 
 ![VictorHugo github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
 
-[![running](https://raw.githubusercontent.com/VictorHugofny/running_page/master/assets/github.svg%29%5D%28https:/running-page.VictorHugofny.vercel.app)
+[![running](https://raw.githubusercontent.com/Victorhugofny/running_page/master/assets/github.svg)](https://running-page.Victorhugofny.vercel.app)
