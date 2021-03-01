@@ -13,3 +13,5 @@
 ![STEAM](https://img.shields.io/badge/Steam-0078D7?style=flat-square&logo=Steam&logoColor=white)
 
 ![VictorHugo github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
+
+[![running](https://raw.githubusercontent.com/VictorHugofny/running_page/master/assets/github.svg%29%5D%28https:/running-page.VictorHugofny.vercel.app)
