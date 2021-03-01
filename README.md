@@ -12,4 +12,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![STEAM](https://img.shields.io/badge/Steam-0078D7?style=flat-square&logo=Steam&logoColor=white)
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
+![victorhugofny github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
