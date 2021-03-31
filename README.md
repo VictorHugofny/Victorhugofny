@@ -1,7 +1,5 @@
 <b> VICTOR HUGO <b>
   
-<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="Girl in a jacket">
-
 ### Contact me:
 - <a href="mailto:victorhugofny@gmail.com?Subject=Meu%20contato&Body=Victor%20Hugo"><img src="https://img.shields.io/badge/gmail%20Victorhugofny-DD1000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/Instagram%20@victorhugofny-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -14,3 +12,5 @@
 ![STEAM](https://img.shields.io/badge/Steam-0078D7?style=flat-square&logo=Steam&logoColor=white)
 
 ![VictorHugo github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
+
+<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="Girl in a jacket">
