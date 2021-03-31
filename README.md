@@ -17,4 +17,4 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776352/BDFF03118CFC6523786A64D3B2C87465C1CFA031/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="U" width="50" height="50">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676840487/5ABA6BA77D9851465446D942543A98A746E57FE3/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="G" width="50" height="50">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776843/66A755228C3DDD293DB4949C07C69B0560E2912A/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="O" width="50" height="50">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776843/66A755228C3DDD293DB4949C07C69B0560E2912A/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="O" width="50" height="50">
+
