@@ -13,7 +13,8 @@
 
 ![VictorHugo github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676774197/B095660493E790390CFEBF02BBE7E4A183961025/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="H" width="50" height="50">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676774197/B095660493E790390CFEBF02BBE7E4A183961025/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="H" width="50" height="50">
+<img src="https://camo.githubusercontent.com/9eab4fdd5db8bf74dfad943cd1201835e23fee9a772465b229a1ceaf78cf1f20/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3931333534383434343637363737343139372f423039353636303439334537393033393043464542463032424245374534413138333936313032352f3f696d773d36333726696d683d33353826696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d74727565" alt="U" width="50" height="50">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776352/BDFF03118CFC6523786A64D3B2C87465C1CFA031/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="U" width="50" height="50">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676840487/5ABA6BA77D9851465446D942543A98A746E57FE3/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="G" width="50" height="50">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776843/66A755228C3DDD293DB4949C07C69B0560E2912A/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="O" width="50" height="50">
