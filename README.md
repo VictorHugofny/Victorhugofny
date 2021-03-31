@@ -1,4 +1,8 @@
 <b> VICTOR HUGO <b>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676774197/B095660493E790390CFEBF02BBE7E4A183961025/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="H" width="100" height="100">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776352/BDFF03118CFC6523786A64D3B2C87465C1CFA031/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="U" width="100" height="100">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676840487/5ABA6BA77D9851465446D942543A98A746E57FE3/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="G" width="100" height="100">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776843/66A755228C3DDD293DB4949C07C69B0560E2912A/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="O" width="100" height="100">
   
 ### Contact me:
 - <a href="mailto:victorhugofny@gmail.com?Subject=Meu%20contato&Body=Victor%20Hugo"><img src="https://img.shields.io/badge/gmail%20Victorhugofny-DD1000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,9 +16,4 @@
 ![STEAM](https://img.shields.io/badge/Steam-0078D7?style=flat-square&logo=Steam&logoColor=white)
 
 ![VictorHugo github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
-
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676774197/B095660493E790390CFEBF02BBE7E4A183961025/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="H" width="100" height="100">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776352/BDFF03118CFC6523786A64D3B2C87465C1CFA031/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="U" width="100" height="100">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676840487/5ABA6BA77D9851465446D942543A98A746E57FE3/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="G" width="100" height="100">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776843/66A755228C3DDD293DB4949C07C69B0560E2912A/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="O" width="100" height="100">
 
