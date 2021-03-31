@@ -1,4 +1,3 @@
-<b> VICTOR HUGO <b>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676774197/B095660493E790390CFEBF02BBE7E4A183961025/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="H" width="100" height="100">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676776352/BDFF03118CFC6523786A64D3B2C87465C1CFA031/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="U" width="100" height="100">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/913548444676840487/5ABA6BA77D9851465446D942543A98A746E57FE3/?imw=150&imh=150&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="G" width="100" height="100">
