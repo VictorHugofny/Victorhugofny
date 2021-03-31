@@ -1,5 +1,6 @@
 <b> VICTOR HUGO <b>
-
+  
+<img src="https://www.thiengo.com.br/img/post/normal/ap9rsbm2hmba6rtgoj1cvudv55ffee16507b9973e29dfbb0a81db3a165.jpg" alt="Girl in a jacket" width="500" height="600">
 
 ### Contact me:
 - <a href="mailto:victorhugofny@gmail.com?Subject=Meu%20contato&Body=Victor%20Hugo"><img src="https://img.shields.io/badge/gmail%20Victorhugofny-DD1000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
