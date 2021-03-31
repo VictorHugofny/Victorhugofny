@@ -13,4 +13,4 @@
 
 ![VictorHugo github stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&show_icons=true)
 
-<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="Girl in a jacket">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/913548444673406521/C373E2D3281C15A5464C9E653F1D84323E8AEB89/?imw=160&imh=160&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Girl in a jacket">
