@@ -1,5 +1,5 @@
 ### Contact me:
-<h1>Sou Victor Hugo estudante de computação, estou cursando Ciencia da computação no IFBaiano de Senhor de Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h1>
+<p>Sou Victor Hugo estudante de computação, estou cursando Ciencia da computação no IFBaiano de Senhor de Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</p>
 - <a href="mailto:victorhugofny@gmail.com?Subject=Meu%20contato&Body=Victor%20Hugo"><img src="https://img.shields.io/badge/gmail%20Victorhugofny-DD1000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/Instagram%20@victorhugofny-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://steamcommunity.com/id/HugoFUNNY/"><img src="https://img.shields.io/badge/steam%20HugoFUNNY-DD2476?style=for-the-badge&logo=steam&logoColor=white"/></a>
