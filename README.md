@@ -1,7 +1,4 @@
 <p align="center">🚀 Sou Victor Hugo estudante de computação, estou cursando Ciencia da computação no IFBaiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</p>
-
-     Sou Victor Hugo estudante de computação, estou cursando Ciencia da computação no IFBaiano  Campus Senhor do Bonfim.
-                            vou postar aqui meus projetos/estudos voltados a programação
                             
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.github.io/"><img src="https://img.shields.io/badge/Portfolio-DD1222?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -13,4 +10,5 @@
 
 ![Victorhugo GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&theme=dark&show_icons=true)
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/victorhugofny/)]
 
