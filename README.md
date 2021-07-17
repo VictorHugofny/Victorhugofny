@@ -9,6 +9,3 @@
 <a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/Youtube-DD1222?style=for-the-badge&logo=youtube&logoColor=white"/><img src="https://img.shields.io/youtube/channel/views/UC0LxIVk-V0k6LsX_Z251iMw?style=social"/>
 
 ![Victorhugo GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhugofny&theme=dark&show_icons=true)
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/victorhugofny/)]
-
