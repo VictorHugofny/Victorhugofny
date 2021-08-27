@@ -11,10 +11,10 @@
   
   <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorhugofny&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="victorhugofny's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugofny&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/victorhugofny/github-readme-stats)
+ <div>
+  <a href="https://github.com/victorhugofny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynrporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynrporto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
