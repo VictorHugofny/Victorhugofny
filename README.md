@@ -7,7 +7,7 @@
 <a href="https://steamcommunity.com/id/HugoFUNNY/"><img src="https://img.shields.io/badge/steam-0E014E?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/Youtube-DD1222?style=for-the-badge&logo=youtube&logoColor=white"/><img src="https://img.shields.io/youtube/channel/views/UC0LxIVk-V0k6LsX_Z251iMw?style=social"/>
 
-<br>
+<br><br>
   
  <div>
   <a href="https://github.com/victorhugofny">
