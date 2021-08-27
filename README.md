@@ -13,7 +13,7 @@
 
  <div>
   <a href="https://github.com/victorhugofny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynrporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugofny&theme=dark&show_icons=true/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynrporto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
