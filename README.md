@@ -1,6 +1,9 @@
 <p align="center">🚀 Sou Victor Hugo, estou cursando Ciencia da computação no IFBaiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true&bg_color=080c0f&title_color=fff&text_color=9f9f9f&icon_color=FD3838" alt="cleysonsilvame" min-width="400px" max-width="400px" width="400px" align="right"/> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cleysonsilvame" alt="cleysonsilvame" />
+</p>
+  
 
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.github.io/"><img src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
