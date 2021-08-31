@@ -1,4 +1,4 @@
-<p align="center">🚀 Sou Victor Hugo, estou cursando Ciencia da computação no IFBaiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</p>
+<h2 align="center">🚀 Sou Victor Hugo, estou cursando Ciencia da computação no IFBaiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
 
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.github.io/"><img src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
