@@ -15,4 +15,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugofny&theme=dark&show_icons=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugofny&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=victorhugofny" alt="victorhugofny" />
