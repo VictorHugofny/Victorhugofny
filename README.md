@@ -1,7 +1,7 @@
 <p align="center">🚀 Sou Victor Hugo, estou cursando Ciencia da computação no IFBaiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cleysonsilvame" alt="cleysonsilvame" />
+  <img src="https://komarev.com/ghpvc/?username=victorhugofny" alt="victorhugofny" />
 </p>
   
 
