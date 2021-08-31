@@ -1,10 +1,5 @@
 <p align="center">🚀 Sou Victor Hugo, estou cursando Ciencia da computação no IFBaiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victorhugofny" alt="victorhugofny" />
-</p>
-  
-
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.github.io/"><img src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send?phone=5574991153953&text=Olá!"><img src="https://img.shields.io/badge/Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -20,4 +15,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugofny&theme=dark&show_icons=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugofny&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=victorhugofny" alt="victorhugofny" />
