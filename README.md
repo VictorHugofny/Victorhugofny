@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-DD1222.svg?&style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%2300599C.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/c%20-E90808.svg?&style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c%20-272727.svg?&style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/php%20-0E014E.svg?&style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br/>
