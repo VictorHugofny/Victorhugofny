@@ -8,6 +8,7 @@
 <a href="https://steamcommunity.com/id/HugoFUNNY/"><img src="https://img.shields.io/badge/steam-0E014E?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/Youtube-DD1222?style=for-the-badge&logo=youtube&logoColor=white"/><img src="https://img.shields.io/youtube/channel/views/UC0LxIVk-V0k6LsX_Z251iMw?style=social"/>
 
+<h1>Languages: </h1
 <div display="flex">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
