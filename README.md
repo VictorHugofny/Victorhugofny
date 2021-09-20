@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/php%20-%2300599C.svg?&style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br/>
-
-<br>
 <h1>Skills: </h1>  
  <div>
   <a href="https://github.com/victorhugofny">
