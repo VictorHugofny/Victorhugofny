@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-DD1222.svg?&style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%2300599C.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/vue%20-%00F063.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/vue%20-#003900.svg?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br/>
 <h1>Skills: </h1>  
