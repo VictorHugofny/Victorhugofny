@@ -15,6 +15,7 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="BULMA" height="30" width="40" src="https://cdn.svgporn.com/logos/bulma.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
 
 </div>
 <br/>
