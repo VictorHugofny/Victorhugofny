@@ -16,6 +16,8 @@
   <img align="center" alt="BULMA" height="30" width="40" src="https://cdn.svgporn.com/logos/bulma.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
+  <img align="center" alt="Vuetify" height="30" width="40" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png">
+
 
 </div>
 <br/>
