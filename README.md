@@ -1,4 +1,7 @@
-<h2 align="center">🚀💻 Sou Victor Hugo, estou cursando Ciencia da computação no IF Baiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
+<h2 align="left">🚀💻 Sou Victor Hugo, estou cursando Ciencia da computação no IF Baiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
 
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
