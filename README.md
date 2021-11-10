@@ -3,7 +3,7 @@
 <h2 align="left">🚀💻 Sou Victor Hugo, estou cursando Ciencia da computação no IF Baiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
 
 
-<div align="center">
+<div align="left">
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/victor-hugo-santana/"><img src="https://img.shields.io/badge/Linkedin-0E014E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
