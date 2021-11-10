@@ -3,13 +3,14 @@
 <h2 align="left">🚀💻 Sou Victor Hugo, estou cursando Ciencia da computação no IF Baiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
 
 
-
+<div align="center">
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/victor-hugo-santana/"><img src="https://img.shields.io/badge/Linkedin-0E014E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:victorhugofny@gmail.com?Subject=Meu%20contato&Body=Victor%20Hugo"><img src="https://img.shields.io/badge/gmail-E90808?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/Instagram-E95708?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/Youtube-DD1222?style=for-the-badge&logo=youtube&logoColor=white"/><img src="https://img.shields.io/youtube/channel/views/UC0LxIVk-V0k6LsX_Z251iMw?style=social"/>
+</div>
 
 <h1>Languages: </h1
 <div display="flex">
