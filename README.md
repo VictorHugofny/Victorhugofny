@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <h2 align="left">🚀💻 Sou Victor Hugo, estou cursando Ciencia da computação no IF Baiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
 
