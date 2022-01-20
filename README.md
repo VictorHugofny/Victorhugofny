@@ -1,6 +1,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="200px" align="right" alt="Computador iuriCode">
 
-<h2 align="left">🚀💻 Sou Victor Hugo, desenvolvedor frontend estou cursando Ciencia da computação no IF Baiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
+<h2 align="left">🚀💻 Sou Victor Hugo, sou desenvolvedor estou cursando Ciencia da computação no IF Baiano  Campus Senhor do Bonfim, vou postar aqui meus projetos/estudos voltados a programação.</h2>
 
 
 <div align="left">
