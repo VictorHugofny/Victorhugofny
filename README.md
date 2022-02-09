@@ -2,7 +2,7 @@
 
 <h2 align="left">🚀 Sou Victor Hugo 💻</h2>
 <h3 align="left">👾 Sou desenvolvedor estou cursando Ciencia da computação no IFBaiano </h3>
-<h3 align="left">💻 Estagiando como programador Fullstack na empresa, </h3>
+<h3 align="left">💻 Estagiando como programador Fullstack na Elogroup </h3>
 <h3 align="left">🧑‍💻 Vou postar aqui meus projetos/estudos voltados a programação.</h3>
 
 
