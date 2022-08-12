@@ -1,7 +1,5 @@
 <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="200px" align="right" alt="Computador iuriCode">
 
-<h2 align="left">🚀 Sou Victor Hugo 💻</h2>
-
 <div align="left">
 <h1>Contact me: </h1>
 <a href="https://victorhugofny.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
