@@ -11,15 +11,14 @@
 
 <h1>Languages: </h1
 <div>
-  <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg">
+  <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg"/>
   <img alt="Vuetify" height="30" width="30" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png">
   <img alt="BULMA" height="30" width="40" src="https://cdn.svgporn.com/logos/bulma.svg">
   <img alt="BOOTSTRAP" height="30" width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
   <img alt="Node" height="30" width="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
-
 </div>
 <br/>
 <h1>Skills: </h1>  
