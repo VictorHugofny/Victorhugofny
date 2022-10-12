@@ -1,6 +1,5 @@
 <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="200px" align="right" alt="Computador iuriCode">
 <br/>
-  <h1>Languages: </h1
 <div>
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
