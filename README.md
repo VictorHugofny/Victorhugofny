@@ -9,7 +9,9 @@
 <a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/Youtube-DD1222?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
 
-<h1>Languages: </h1
+
+<br/>
+  <h1>Languages: </h1
 <div>
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -20,7 +22,6 @@
   <img alt="BOOTSTRAP" height="30" width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
   <img alt="Node" height="30" width="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
 </div>
-<br/>
 <h1>Skills: </h1>  
  <div>
   <a href="https://github.com/victorhugofny">
