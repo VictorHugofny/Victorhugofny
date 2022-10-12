@@ -20,7 +20,6 @@
   <img alt="BOOTSTRAP" height="30" width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
   <img alt="Node" height="30" width="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
 
-
 </div>
 <br/>
 <h1>Skills: </h1>  
