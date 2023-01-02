@@ -12,8 +12,8 @@
 <h1>Skills: </h1>  
   <div>
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img alt="React" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
   <img alt="Vue" height="30" width="30" src="https://vuejs.org/images/logo.png"/>
-
   <img alt="Node" height="30" width="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
 </div>
  <div>
