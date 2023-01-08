@@ -15,6 +15,7 @@
   <img alt="Node" height="43" width="43" src="https://www.qrsof.com/images/nodejs.png">
   <img alt="Node" height="34" width="34" src="https://th.bing.com/th/id/OIP.9qunglw0zUH90Bw-CSnhtQHaHa?pid=ImgDet&w=800&h=800&rs=1">
 </div>
+<BR>
  <div>
   <a href="https://github.com/victorhugofny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugofny&layout=compact&langs_count=7&theme=dark"/>
