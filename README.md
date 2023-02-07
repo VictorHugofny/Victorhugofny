@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/victor-hugo-santana/"><img src="https://img.shields.io/badge/Linkedin-0E014E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:victorhugofny@gmail.com?Subject=Meu%20contato&Body=Victor%20Hugo"><img src="https://img.shields.io/badge/gmail-E90808?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/victorhugofny/"><img src="https://img.shields.io/badge/Instagram-E95708?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC0LxIVk-V0k6LsX_Z251iMw"><img src="https://img.shields.io/badge/Youtube-DD1222?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
 
 <h1>Skills: </h1>  
