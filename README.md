@@ -6,7 +6,7 @@
 </div>
 
 <h1>Skills: </h1>  
-  <div>
+  <div style="display: block" align="center"><br>
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="TS" height="30" width="30" src="https://th.bing.com/th/id/OIP.vWi4WI98R10b24-5WI-mKQHaHa?pid=ImgDet&rs=1"/>
   <img alt="React" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
